@@ -8,14 +8,9 @@ alternatively you could do it through a terminal Linux FTW
 
 You will also have to install fabric if you haven't done that already.
 https://fabricmc.net/ you don't need to worry about it's api as it's already in this mod pack and will be updated when necessary 
-
-
-
-90% of these mods are fabric only so make sure you have that installed and fabric api.
-
+90% of these mods are fabric only.
 
 Optional mods you can remove them if you what to.
-
 
 XaerosWorldMap / Xaeros_Minimap (note turn off player icons and mob icons and cave overlay)
 
