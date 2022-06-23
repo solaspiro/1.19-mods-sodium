@@ -2,7 +2,7 @@
 
 We strongly recommend you use multimc launcher https://multimc.org/ instead of the default one.
 
-How to download click on the click on green button and then download as zip put the .jars in your mod folder done 
+How to download click on the click on green button and then download zip put the .jars in your mod folder done 
 if you don't have a mod folder make one.
 alternatively you could do it through a terminal Linux FTW
 
