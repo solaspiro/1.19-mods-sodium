@@ -7,8 +7,8 @@ if you don't have a mod folder make one.
 alternatively you could do it through a terminal Linux FTW
 
 You will also have to install fabric if you haven't done that already.
-https://fabricmc.net/ you don't need to worry about it's api as it's already in this mod pack and will be updated when necessary 
-90% of these mods are fabric only.
+https://fabricmc.net/use/installer/ you don't need to worry about the api as it's already in this mod pack and will be updated when necessary 
+90% of these mods are fabric only....
 
 Optional mods you can remove them if you what to.
 
