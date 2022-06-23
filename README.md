@@ -1,6 +1,6 @@
 # 1.19-mods-sodium
 
-We strongly recommend you use multimc launcher instead of the default one.
+We strongly recommend you use multimc launcher https://multimc.org/ instead of the default one.
 
 How to download click on the click on green button and then download as zip put the .jars in your mod folder done 
 if you don't have a mod folder make one.
