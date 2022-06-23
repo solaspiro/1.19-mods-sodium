@@ -75,3 +75,42 @@ XaerosWorldMap
 InvMove
 WhatsThatSlot
 Visuality
+
+# License Info
+Below is a list of the mods in this repo and their licenses
+
+* CIT Resewn - **MIT**
+* Clean View - **MIT**
+* Durability 101 - **MIT**
+* Equipment Compare - **CC ANCND 4**
+* Xaeros Mini Map - **ARR**
+* Xaeros World Map - **ARR**
+* Anti Ghost - **MIT**
+* Apple Skin - **Unlicense**
+* Architectury - **GNU Lesser GPL 3**
+* Authe Me - **MIT**
+* Better Biome Blend - **Unlicense**
+* Better Mount HUD - **GNU GPL 3**
+* Cloth Config - **GNU Lesser GPL 3**
+* Complete Config - **Apache License 2**
+* Fabric API - **Apache License 2**
+* Fast Open Links And Folders - **GNU Lesser GPL 3**
+* Lambda Better Grass - **MIT**
+* Lazy DFU - **MIT**
+* Light Overlay - **Apache License 2**
+* Map Tooltip-fabric MIT**
+* Mod Menu - **MIT**
+* More Chat History - **CC Legal Code**
+* No Telemetry - **CC Zero 1 Universal**
+* No Fade - **MIT**
+* Not Enough Animations - **tr7zw Protective License**
+* Not Enough Crashes - **MIT**
+* Reeses Sodium Options - **MIT**
+* Replanter - **MIT**
+* Shulker Box Tooltip - **MIT**
+* Sodium Extra - **GNU Lesser GPL 3**
+* Sodium - **GNU Lesser GPL 3**
+* Tooltip Fix - **MIT**
+* Ugly Scoreboard Fix - **Apache License 2**
+* Visuality - **MIT**
+* What's That Slot - **GNU Lesser GPL 3**
