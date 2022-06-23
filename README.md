@@ -36,9 +36,9 @@ sodium can be replaced with optifine but this is not recommended unless you have
 
 (No zooming on sodium or optifine please, just leave it unbound use a spyglass instead)
 
-list of allowed mod
+list of allowed mod not all are in this modpack 
 
-advancementinfo
+advancementinfo.
 antighost
 appleskin
 authme
@@ -70,7 +70,7 @@ cleanview
 light-overlay
 maptooltip
 shulkerboxTooltip
-Sodium or Optifine (No zooming please, just leave it unbound)
+Sodium or Optifine 
 XaerosWorldMap
 InvMove
 WhatsThatSlot
