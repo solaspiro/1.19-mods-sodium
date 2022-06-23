@@ -2,6 +2,8 @@
 
 We strongly recommend you use multimc launcher https://multimc.org/ instead of the default one.
 
+if you have any trouble with these mods etc please let us no and we will help as soon as possible.
+
 How to download click on the click on green button and then download zip put the .jars in your mod folder done 
 if you don't have a mod folder make one.
 alternatively you could do it through a terminal Linux FTW
@@ -31,5 +33,3 @@ visuality adds cool effects (like shiny armour) but can be a bit buggy
 sodium can be replaced with optifine but this is not recommended unless you have a shader that doesn't work with sodium 
 
 (No zooming on sodium or optifine please, just leave it unbound use a spyglass instead)
-
-if you have any trouble with these mods please let us no and we will help as soon as possible
