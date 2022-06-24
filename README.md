@@ -1,5 +1,5 @@
 # 1.19-mods-sodium
-NOTE  this is only so people can download the "allowed mods" easier for are private invite only server of course full/all credits to the mod creators plz don't dmca us XD (seriously though if you want your mod remove let us know) 
+NOTE  this is only so people can download the "allowed mods" easier for are private invite only server of course full/all credits to the mod creators plz don't dmca us XD (seriously though if you want your mod remove let us know)
 
 We strongly recommend you use multimc launcher https://multimc.org/ instead of the default one.
 
