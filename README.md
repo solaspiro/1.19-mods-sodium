@@ -8,7 +8,7 @@ How to download click on the click on green button and then download zip put the
 if you don't have a mod folder make one.
 alternatively you could do it through a terminal Linux FTW
 
-You will also have to install fabric if you haven't done that already. this is easier through PolyMC/MultiMC 
+You will also have to install fabric if you haven't done that already. this is easier through PolyMC
 https://fabricmc.net/use/installer/ you don't need to worry about the api as it's already in this mod pack and will be updated when necessary 
 
 90% of these mods are fabric only....
