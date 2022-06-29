@@ -82,7 +82,7 @@ Below is a list of the mods in this repo and their licenses
 * Clean View - **MIT**
 * Durability 101 - **MIT**
 * Equipment Compare - **[Custom License](https://github.com/AHilyard/EquipmentCompare/blob/main/LICENSE)**
-* Xaeros Mini Map - **ARR**
+* Xaeros Mini Map Fair-play Edition - **ARR**
 * Xaeros World Map - **ARR**
 * Anti Ghost - **MIT**
 * Apple Skin - **Unlicense**
