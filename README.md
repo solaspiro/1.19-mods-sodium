@@ -115,4 +115,4 @@ Below is a list of the mods in this repo and their licenses
 * Ugly Scoreboard Fix - **Apache License 2**
 * Visuality - **MIT**
 * What's That Slot - **GNU Lesser GPL 3**
-* lambdynamiclights- **MIT**
+* lambdynamiclights - **MIT**
