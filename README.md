@@ -99,7 +99,7 @@ Below is a list of the mods in this repo and their licenses
 * Lambda Better Grass - **MIT**
 * Lazy DFU - **MIT**
 * Light Overlay - **Apache License 2**
-* Map Tooltip-fabric MIT**
+* Map Tooltip-fabric **MIT**
 * Mod Menu - **MIT**
 * More Chat History - **CC Legal Code**
 * No Telemetry - **CC Zero 1 Universal**
