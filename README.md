@@ -21,6 +21,8 @@ replanter
 
 lambdynamiclight
 
+litematica + malilib
+
 notenoughanimations
 
 whats that slot
