@@ -21,8 +21,8 @@ replanter
 
 lambdynamiclight
 
-litematica may be a bit buggy 
-+ malilib
+litematica maybe buggy 
+malilib
 
 notenoughanimations
 
@@ -34,7 +34,7 @@ Durability101
 
 light overlay recommended to keep this
 
-visuality adds cool effects (like shiny armour) but can be a bit buggy
+visuality adds cool effects (like shiny armour) but can be a bit buggy with shaders
 
 sodium can be replaced with optifine but this is not recommended unless you have a shader that doesn't work with sodium 
 
