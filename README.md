@@ -19,6 +19,8 @@ XaerosWorldMap / Xaeros_Minimap (note turn off player icons and mob icons and ca
 
 replanter
 
+Iris Shaders
+
 lambdynamiclight
 
 litematica maybe buggy 
