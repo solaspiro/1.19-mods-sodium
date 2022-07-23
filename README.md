@@ -119,5 +119,5 @@ Below is a list of the mods in this repo and their licenses
 * Visuality - **MIT**
 * What's That Slot - **GNU Lesser GPL 3**
 * lambdynamiclights - **MIT**
-* malilib - **GNU**
-* litematica - **GNU**
+* malilib - **GNU Lesser GPL 3**
+* litematica - **GNU Lesser GPL 3**
